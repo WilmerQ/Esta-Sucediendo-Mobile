@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Esta Sucediendo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_alerta_manual">alerta_manual</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_tips">tips</string>
+</resources>

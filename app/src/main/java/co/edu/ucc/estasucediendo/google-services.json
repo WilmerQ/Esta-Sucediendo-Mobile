@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "598165112229",
+    "project_id": "firebase-esta-sucediendo"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598165112229:android:3d99e96cb9934d12",
+        "android_client_info": {
+          "package_name": "co.edu.ucc.estasucediendo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598165112229-8rd5f1o1e0pblk178mft5ujff5r690p0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.edu.ucc.estasucediendo",
+            "certificate_hash": "693f0e79df264690cb20d74727899aca4617a27f"
+          }
+        },
+        {
+          "client_id": "598165112229-k1mtdhl574sdnqomcf52alvmmkvgrl4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlbCExff0iUln4_W-8_pknzzBkx3-hxPI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="co.edu.ucc.estasucediendo.alerta_manual">
+    <item
+        android:id="@+id/action_politicaPrivacidad"
+        android:orderInCategory="100"
+        android:title="Política de privacidad"
+        app:showAsAction="never" />
+
+</menu>
